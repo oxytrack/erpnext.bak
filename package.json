@@ -5,6 +5,7 @@
     "type": "git",
     "url": "git+https://github.com/oxytrack/erpnext.git"
   },
+  "private": true,
   "homepage": "https://erpnext.com",
   "author": "Frappe Technologies Pvt. Ltd.",
   "license": "GPL-3.0",
